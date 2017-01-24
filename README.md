@@ -9,3 +9,5 @@ In summary, this is stupid, unstable, pointless and unlikely to be developed fur
 
 Licensed under The :) License
 http://licence.visualidiot.com/
+
+Demo: https://shakyjake.github.io/HodorScript
